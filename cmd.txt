@@ -13,4 +13,9 @@ git push origin master   to push file to remote repo
 git config --global user.email "emailid"
 git config --global user.name "name"
 
+for adding ssh key
+ssh-keygen
+cat "path"
+ssh -T git@github.com      to validate
+
 
