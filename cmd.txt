@@ -1,0 +1,16 @@
+git init  local repo
+git remote add origin ""  connecting to remote repo
+git remote rm origin  to remove origin
+git pull origin master   to get file from remote server
+git add file "name"
+ls   list of file
+git status    status of file
+git add -A to add file in groups
+git commit -m "message" commiting file
+git commit -a -m "message" doing multiple commits
+
+git push origin master   to push file to remote repo
+git config --global user.email "emailid"
+git config --global user.name "name"
+
+
