@@ -24,3 +24,7 @@ git merge "branch name" 		merging branch
 
 git rebase "branch name" 		rebasing branch
 
+git pull --rebase origin master         when merge conflict 
+git mergetool				to keep all work
+git rebase --continue
+git push origin master
