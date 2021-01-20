@@ -17,5 +17,7 @@ for adding ssh key
 ssh-keygen
 cat "path"
 ssh -T git@github.com      to validate
+git branch "branch name"  		creating branch
+
 
 
