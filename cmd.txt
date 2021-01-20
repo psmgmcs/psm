@@ -18,6 +18,9 @@ ssh-keygen
 cat "path"
 ssh -T git@github.com      to validate
 git branch "branch name"  		creating branch
+git checkout "branch name" 		changing branch
 
+git merge "branch name" 		merging branch
 
+git rebase "branch name" 		rebasing branch
 
